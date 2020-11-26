@@ -20,7 +20,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/zgnp5uc1qrjuiil8dorpvr2x0?si=3i3OXEcNRe-Upk8aglD8cg)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/12l1tpb4sgf1pe8p4w0qcoxcm?si=3i3OXEcNRe-Upk8aglD8cg)
 
 ---
 
@@ -74,7 +74,3 @@ https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/dino.gif)
  
 ---
 
-
-<!--
-**AsjadSiddiqui/AsjadSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
