@@ -20,7 +20,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://asjad.vercel.app/api/spotify)](https://open.spotify.com/user/12l1tpb4sgf1pe8p4w0qcoxcm?si=3i3OXEcNRe-Upk8aglD8cg)
+[![Spotify](https://asjad.vercel.app/spotify.svg)](https://open.spotify.com/user/12l1tpb4sgf1pe8p4w0qcoxcm?si=3i3OXEcNRe-Upk8aglD8cg)
 
 ---
 
