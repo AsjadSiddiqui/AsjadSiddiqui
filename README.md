@@ -30,7 +30,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 <p align="center">
 <a href="https://asjad.netlify.app/"><img src="https://img.shields.io/badge/-asjad.netlify.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/asjad-s-7449131a9/"><img src="https://img.shields.io/badge/-Asjad%20Siddiqui-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:asjadsidd101@gamil.com"><img src="https://img.shields.io/badge/-asjadsidd101@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:asjadsidd101@gmail.com"><img src="https://img.shields.io/badge/-asjadsidd101@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br />
 
