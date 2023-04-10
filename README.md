@@ -7,12 +7,6 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/github_rounded_corners.gif" />
 
-## I'm a Flutter Expert
-
-- 👨‍💻 I’m currently working on mobile development technologies like Flutter, React Native etc.
-- 📚 I’m experienced in Firebase, Node JS & Dart
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play Chess ♟️ & FPS Games 🔫.
 
 ---
 
