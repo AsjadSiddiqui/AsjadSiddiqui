@@ -26,8 +26,6 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AsjadSiddiqui&countColorcountColor&countColor=%234287f5"/>
-
 ### Contact with me 📝
 <p align="center">
 <a href="https://asjad.netlify.app/"><img src="https://img.shields.io/badge/-asjad.netlify.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
