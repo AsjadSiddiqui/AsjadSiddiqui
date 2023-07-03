@@ -3,10 +3,14 @@
 The Dark-Mode always wins.
 
 Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
-# Hi there, I'm Asjad <img width="30px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/wave.gif" />
+
+
+
+<img alt="GIF" height="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/Cat.jpg" />
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/github_rounded_corners.gif" />
 
+# Hi there, I'm Asjad <img width="30px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/wave.gif" />
 
 ---
 
