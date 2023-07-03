@@ -6,15 +6,19 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 
 
-<img alt="GIF" height="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/Cat.jpg" />
+<p float="left">
+  <img alt="GIF" height="160px" width="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/Cat.jpg" />
+  <img align="right" alt="GIF" height="160px" width="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/github_rounded_corners.gif" />
+</p>
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/github_rounded_corners.gif" />
+
+
 
 # Hi there, I'm Asjad <img width="30px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/wave.gif" />
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" width="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
