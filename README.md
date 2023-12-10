@@ -7,7 +7,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 
 <p float="left">
-  <img alt="GIF" height="160px" width="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/Cat.jpg" />
+<img alt="GIF" height="160px" width="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/git.gif" />
   <img align="right" alt="GIF" height="160px" width="160px" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/github_rounded_corners.gif" />
 </p>
 
